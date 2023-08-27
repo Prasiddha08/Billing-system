@@ -1,0 +1,7 @@
+ 33 kfc 990 0
+ 6 laptop 12000 10
+ 8 paneer 195 0
+ 11 cake 1200 0
+ 13 bread 120 0
+ 90 kurkure 50 0
+ 91 gundruk 120 0
